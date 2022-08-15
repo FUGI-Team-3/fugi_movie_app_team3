@@ -7,7 +7,7 @@ import 'app/routes/app_pages.dart';
 void main() {
   runApp(
     GetMaterialApp(
-      title: "Application",
+      title: "INI BRANCH KULDII",
       initialRoute: AppPages.INITIAL,
       getPages: AppPages.routes,
     ),
